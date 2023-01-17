@@ -26,12 +26,12 @@
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
 
 
-# [Project 4: When Was the Golden Age of Video Games?] https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
+# [Project 4: When Was the Golden Age of Video Games?](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
 
 
 
-# [Project 5: A Visual History of Nobel Prize Winners] https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
+# [Project 5: A Visual History of Nobel Prize Winners](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
