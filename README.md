@@ -16,6 +16,6 @@
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
 
 
-# [Project 1: Investigating Netflix Movies and Guest Stars in The Office](https://github.com/dakyungsilvialee/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
+# [Project 2: When Was the Golden Age of Video Games?](https://github.com/dakyungsilvialee/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
