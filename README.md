@@ -26,7 +26,12 @@
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
 
 
-# [Project 4: https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
+# [Project 4:] https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
 
+
+
+# [Project 5: A Visual History of Nobel Prize Winners] https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/notebook.ipynb)
+* Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
+* Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
