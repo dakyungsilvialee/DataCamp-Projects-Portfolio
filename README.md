@@ -24,3 +24,9 @@
 # [Project 3: Project: The GitHub History of the Scala Language](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
+
+
+# [Project 4: The Android App Market on Google Play](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
+* Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
+* Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
+
