@@ -1,6 +1,9 @@
 # DataCamp-Projects-Portfolio
 ## Introduction
 > Compilation of DataCamp Projects from 'Data Analyst with SQL' and 'Data Scientist with Python' tracks regarding data cleaning, visualization, and manipulation by using MySQL, PostgreSQL and Python.
+> Encountered various projects on Jupyter Notebook with a variety of database from hierarchical to relational databases.
+> Focused on applying machine learning and data manipulation concepts to solve a business problem.
+
 
 
 
