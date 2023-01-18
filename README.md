@@ -35,3 +35,9 @@
 # [Project 5: A Visual History of Nobel Prize Winners](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
+
+
+
+# [Project 6: Dr. Semmelweis and the Discovery of Handwashing](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
+* Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
+* Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
