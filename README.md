@@ -41,3 +41,6 @@
 # [Project 6: Dr. Semmelweis and the Discovery of Handwashing](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
 * Part 1: 10 SQL queries to gain specific insights from sakila database on mySQL 
 * Part 2: 4 SQL queries to gain specific insights from online (stackexchange) database 
+
+
+# [Project 7: Predicting Credit Card Approvals](https://github.com/dakyungsilvialee/DataCamp-Projects-Portfolio/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
